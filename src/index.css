@@ -139,6 +139,6 @@ footer > img {
   margin-right: 25px;
 }
 
-footer:last-child {
+footer >img:last-of-type {
   margin-right: 0px;
 }
