@@ -138,3 +138,7 @@ footer {
 footer > img {
   margin-right: 25px;
 }
+
+footer:last-child {
+  margin-right: 0px;
+}
